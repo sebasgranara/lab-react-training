@@ -1,0 +1,13 @@
+.CreditCard {
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  width:300px;
+  height:150px;
+  padding:15px;
+}
+.CreditCard img {
+  width: 50px;
+  height: auto;
+  align-self: flex-end;
+}
