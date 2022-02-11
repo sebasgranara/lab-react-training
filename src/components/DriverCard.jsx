@@ -1,5 +1,5 @@
 import React from 'react';
-import './DriverCard.css'
+import "./DriverCard.css"
 
 function DriverCard({ name, rating, img, car }) {
   const { model, licensePlate } = car;

@@ -59,6 +59,7 @@ function App() {
         bgColor="#ddbb55"
         color="white"
       />
+
       <DriverCard
         name="Travis Kalanick"
         rating={4.2}
